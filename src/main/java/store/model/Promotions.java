@@ -8,6 +8,5 @@ public class Promotions {
 
     public Promotions(List<Promotion> promotions) {
         this.promotions = promotions;
-
     }
 }
